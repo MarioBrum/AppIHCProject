@@ -1,0 +1,20 @@
+1. Quais são os usuários?
+2. Quais tarefas serão suportadas?
+3. Qual o contexto de realização destas tarefas?
+
+Projeto da interface:
+
+4) Quais comandos e ações o usuário pode realizar através da interface?
+
+5) Como os componentes da Interface serão
+apresentados aos usuários?
+
+
+
+1. Praticantes de atividade física(corrida,bicicleta,skate,caminhada)
+
+2. Adicionar local, fazer um review do local
+Que posteriormente se dividiriam em subtarefas como
+Adicionar o local, enviar uma foto do local, atualizar informações de clima/tempo, atualizar informações relevantes a lotação, adicionar uma nota pro local.
+
+3. Contexto é ter uma visão/review momentânea do local que pretende ir fazer(temperatura, clima,se está ventando, fechando o tempo, se tem muita gente no local) determinado exercício, além de conhecer novos lugares.
