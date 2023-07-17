@@ -3,6 +3,7 @@ public class Comentario{
 
     private String texto;
     private Comentario resposta;
+    private int curtidas;
     //private Usuario user; //*** fazer */
     
     public Comentario(String texto){
@@ -30,6 +31,14 @@ public class Comentario{
 
     public void removeComentario(){
         
+    }
+
+    public void like(){
+        this.curtidas++;
+    }
+
+    public void dislike(){
+        this.curtidas--;
     }
 
     public String getTexto(){
