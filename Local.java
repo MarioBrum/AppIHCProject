@@ -15,6 +15,7 @@ public class Local{
     private SecaoComentario sc;
     private LinkedList<Categoria> categoria;
     private int avaliacao_Nota;
+    private Categoria categoria;
     
     public Local(){
 
