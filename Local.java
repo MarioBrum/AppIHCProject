@@ -19,4 +19,8 @@ public class Local{
     public Local(){
 
     }
+
+    public void avaliarLocal(int nota){
+        //adicionar uma nota(media) pro local
+    }
 }
